@@ -8,10 +8,9 @@ const Home = (props) => {
     <div className={styles['container']}>
       <section className={styles['hero']}>
         <video
-          src="https://presentation-website-assets.teleporthq.io/templates/togthr/togthr-video.mp4"
+          src="https://github.com/Vyshnav-M/Vyshnav-M.github.io/blob/main/hai.mkv"
           loop
           muted
-          poster="/playground_assets/hero-bg.png"
           preload="auto"
           autoPlay
           playsInline
