@@ -3,6 +3,9 @@
     background-image: linear-gradient(to bottom right, #0f6528, #31d661);
 
 }
+a:link {
+  color: black;
+}
 h1{
     font-family: 'Montserrat', sans-serif;
     font-size: 3.5rem;
@@ -180,8 +183,8 @@ p{
 	margin-top: 4rem;
 }
 .team-content img{
-	width: 250px;
-	height: 300px;
+	width: 50%;
+	height: 60%;
 	border-radius: 15px;
 	margin-bottom: 15px;
 }
