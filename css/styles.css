@@ -147,9 +147,11 @@ p{
 }
 .social-icons{
     margin: 20px 10px;
+    color: black;
 }
-
-
+.sociaa-icons:hover{
+	transform: scale(1.2);
+}
 
 *{
 	padding: 0;
