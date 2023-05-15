@@ -3,16 +3,6 @@
     background-image: linear-gradient(to bottom right, #0f6528, #31d661);
 
 }
-a{
-	display: inline-block;
-	color: #fff;
-	font-size: 20px;
-	margin: 0 8px;
-	transition: all .38s ease;
-}
-a:hover{
-	transform: scale(1.2);
-}
 h1{
     font-family: 'Montserrat', sans-serif;
     font-size: 3.5rem;
