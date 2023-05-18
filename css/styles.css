@@ -3,6 +3,10 @@
     background-image: linear-gradient(to bottom right, #0f6528, #31d661);
 
 }
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
 h1{
     font-family: 'Montserrat', sans-serif;
     font-size: 3.5rem;
