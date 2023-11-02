@@ -6,6 +6,7 @@
 a {
   color: inherit;
   text-decoration: inherit;
+  transition: .4s;
 }
 a:hover
 {
